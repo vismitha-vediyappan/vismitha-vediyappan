@@ -20,7 +20,7 @@ backend development, DSA, and continuous improvement.
 
 <td width="45%" align="right">
 
-<img src="assets" width="400">
+<img src="assets/.gitkeep/developer.jpg.jpeg" width="400">
 
 </td>
 
