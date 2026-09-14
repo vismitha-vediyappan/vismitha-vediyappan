@@ -1,7 +1,4 @@
-<table>
-<tr>
 
-<td width="55%" valign="top">
 
 # Hi 👋, I'm Vismitha
 
@@ -24,5 +21,4 @@ backend development, DSA, and continuous improvement.
 
 </td>
 
-</tr>
-</table>
+
