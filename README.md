@@ -20,7 +20,7 @@ backend development, DSA, and continuous improvement.
 
 <td width="45%" align="right">
 
-<img src="./assets/developer.png" width="400">
+<img src="./assets/developer.jpeg.jpg" width="400">
 
 </td>
 
